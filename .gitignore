@@ -1,0 +1,9 @@
+# Dependencies, build output and local files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.apk
+*.aab
+*.keystore
+*.user
+.DS_Store
