@@ -27,7 +27,7 @@ Abre `PortalTax.sln` en Visual Studio 2019 o 2022 con la carga de trabajo de Xam
 
 - Se conserva sin cambios funcionales como referencia del código original (2020).
 - No recibe actualizaciones de dependencias; el mantenimiento ocurre en [xamarin-exclusive-tax-services](https://github.com/KevinAndrey96/xamarin-exclusive-tax-services).
-- En noviembre de 2026 se depuró el historial completo: se retiraron el keystore de firma, 2.900 archivos de `bin/` y `obj/` y el paquete `.aab` publicado. Todos los commits conservan su fecha original.
+- En noviembre de 2026 se depuró el historial completo: se retiraron el keystore de firma, unos 3.050 archivos de `bin/` y `obj/` y el paquete `.aab` publicado. Todos los commits conservan su fecha original.
 
 ## Autoría
 
